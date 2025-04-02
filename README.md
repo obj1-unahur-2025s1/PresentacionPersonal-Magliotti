@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Marcos Magliotti.
+- Vivo en Ituzaingo Zona Oeste.
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama EL GATO
+- Ya he usado Github, pero solo para descargar alguna que otra cosa relacionada a videojuegos o a la informatica, es mi primera vez creando una cuenta y subiendo/editando un repo.
+- Tengo un perro que se llama Firu.
